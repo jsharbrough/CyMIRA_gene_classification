@@ -1,4 +1,5 @@
-#CyMIRA_gene_classification
+**CyMIRA_gene_classification**
+==========================
 
 
 Plant genome gene categorization pipeline incorporating:
