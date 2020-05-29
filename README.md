@@ -3,9 +3,9 @@
 
 
 Plant genome gene categorization pipeline incorporating:
-<ul><li>-CyMIRA (http://cymira.colostate.edu)</li>
-<li>-Homology to Arabidopsis inferred by Orthofinder v2+ (https://github.com/davidemms/OrthoFinder)</li>
-<li>-De novo targeting predictions from four different sub-cellular targeting prediction programs
+<ul><li>CyMIRA (http://cymira.colostate.edu)</li>
+<li>Homology to Arabidopsis inferred by Orthofinder v2+ (https://github.com/davidemms/OrthoFinder)</li>
+<li>De novo targeting predictions from four different sub-cellular targeting prediction programs
     TargetP, iPSORT, Predotar, LOCALIZER</li></ul>
 
 
